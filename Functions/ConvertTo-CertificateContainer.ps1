@@ -20,6 +20,7 @@ Date:           Saturday, 7th November 2015
 Version:        1.0
 Keywords:       SSL, Certificate 
 .LINK
+https://github.com/dean1609/PowerShell/blob/master/Functions/ConvertTo-CertificateContainer.ps1
 #>
 
 [CmdletBinding()]
