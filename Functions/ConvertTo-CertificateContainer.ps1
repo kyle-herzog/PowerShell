@@ -21,6 +21,7 @@ Version:        1.0
 Keywords:       SSL, Certificate 
 .LINK
 https://github.com/dean1609/PowerShell/blob/master/Functions/ConvertTo-CertificateContainer.ps1
+https://deangrant.wordpress.com/2015/11/07/creating-concatenated-certificate-container-files-using-windows-powershell/
 #>
 
 [CmdletBinding()]
