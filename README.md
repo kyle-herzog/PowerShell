@@ -22,7 +22,7 @@ The repository contains my entries to the Scripting Games Events hosted at Power
 * **./Create-NTFSMountedFolder.ps1** - creates NTFS mounted folder <br />
 * **./Create-VirtualHardDisks.ps1** - creates multiple virtual machine hard disks <br />
 * **./Invoke-ConsolidateVMDisks.ps1** - removes idepedent non-persistene virtual mahcine hard disks and performs consolidation <br />
-* **./Join-ESXiHostToDomain** - joins ESXi host(s) to an Active Directory domain. < br/>
+* **./Join-ESXiHostToDomain.ps1** - joins ESXi host(s) to an Active Directory domain. < br/>
 * **./Set-GuestNetworkInterface.ps1** - sets guest network interface for Windows guest operating system. <br />
 * **./Set-softResetClearTSC.ps1** - configures virtual machine to  reset the TSC of all vCPUs for boot process <br />
 * **./Set-SQLServerConfiguration.ps1** - configures SQL Server maximum memory and max degree of parallelism <br />
