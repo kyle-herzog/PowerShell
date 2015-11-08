@@ -11,8 +11,8 @@ Repository for Windows PowerShell
 The repository contains my entries to the Scripting Games Events hosted at PowerShell.org (http://powershell.org/wp/the-scripting-games/) <br />
 
 * **./2015-September-Scripting-Games-Puzzle.ps1** - September 2015 <br />
-* **./Get-GeoIP.ps1 - August 2015 <br />
-* **./Get-RSSFeed.ps1 - October 2015 <br />
+* **./Get-GeoIP.ps1** - August 2015 <br />
+* **./Get-RSSFeed.ps1** - October 2015 <br />
 
 # Scripts 
 
