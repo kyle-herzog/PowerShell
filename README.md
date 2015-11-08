@@ -16,11 +16,12 @@ The repository contains my entries to the Scripting Games Events hosted at Power
 
 # Scripts 
 
-* **./Consolidate-VMDisks.ps1** - <br />
-* **./Create-NTFSMountedFolder.ps1** - <br />
-* **./Create-VirtualHardDisks.ps1** - <br />
-* **./Invoke-ConsolidateVMDisks.ps1** - <br />
-* **./Set-GuestNetworkInterface.ps1** - <br />
-* **./Set-softResetClearTSC.ps1** - <br />
-* **./Set-SQLServerConfiguration.ps1** - <br />
-* **./Set-VMHostServiceStatus.ps1** - <br />
+* **./Consolidate-VMDisks.ps1** - consolidates virtual machine hard disks. <br />
+* **./Create-NTFSMountedFolder.ps1** - creates NTFS mounted folder <br />
+* **./Create-VirtualHardDisks.ps1** - creates multiple virtual machine hard disks <br />
+* **./Invoke-ConsolidateVMDisks.ps1** - removes idepedent non-persistene virtual mahcine hard disks and performs consolidation <br />
+* **./Join-ESXiHostToDomain** - joins ESXi host(s) to an Active Directory domain. < br/>
+* **./Set-GuestNetworkInterface.ps1** - sets guest network interface for Windows guest operating system. <br />
+* **./Set-softResetClearTSC.ps1** - configures virtual machine to  reset the TSC of all vCPUs for boot process <br />
+* **./Set-SQLServerConfiguration.ps1** - configures SQL Server maximum memory and max degree of parallelism <br />
+* **./Set-VMHostServiceStatus.ps1** - performs stop or start action on ESXi host(s) service system services.   <br />
