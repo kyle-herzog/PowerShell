@@ -32,6 +32,7 @@ Param(
 
 Begin
     {
+    # Writes text to the verbose message stream, listing the order to which certificats files will be applied to the concatenated certificate container file.
     Write-Verbose "A concatenated certificate container file will be created using certificates in the following order:" 
     ForEach ($Certificate in $Certificates)
         {
@@ -48,10 +49,11 @@ Process
         ForEach ($Certificate in $Certificates)
             { 
             Get-Content $Certificate | Add-Content $Output 
-            } 
+            } # ForEach 
         } # Try 
     Catch
         {
+         # Returns error exception message and exits.
         Write-Host ("The creation of the concatenated certificate container file failed with the following exception message: " + $Error[0].Exception.Message) -ForegroundColor Red 
         Break 
         } # Catch 
@@ -59,6 +61,7 @@ Process
 
 End 
     {
+     # Writes text to the verbose message stream to confirm created of concatenated certificate container file and location.
     Write-Verbose ("A concatenated certiticate file has been created at " + $Output + ".")
     } # End 
 } # Function 
