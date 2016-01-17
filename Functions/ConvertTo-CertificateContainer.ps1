@@ -1,4 +1,6 @@
 
+Function ConvertTo-CertificateContainer { 
+
 <#
 .SYNOPSIS 
 Creates concatenated certificate container file.
@@ -66,3 +68,4 @@ End
     } # End 
 } # Function 
 
+ConvertTo-CertificateContainer -Certificates "C:\Sandbox\Certificates\colprdchef1.sumerianservices.net\colprdchef1.sumerianservices.net.crt", "C:\Sandbox\Certificates\colprdchef1.sumerianservices.net\RootCA.crt" -Output "C:\Sandbox\Certificates\colprdchef1.sumerianservices.net\colprdchef1.sumerianservices.net_chain.pem" -Verbose 
