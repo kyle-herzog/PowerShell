@@ -39,7 +39,7 @@ Author:               Dean Grant
 Date:                 Tuesday, 5th January 2015
 Version:              1.0
 .LINK 
-Online Version: 
+Online Version: https://github.com/dean1609/PowerShell/blob/master/Functions/Send-ToSlack.ps1
 Slack Web API: https://api.slack.com/web. 
 #> 
 
