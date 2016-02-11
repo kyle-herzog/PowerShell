@@ -14,9 +14,11 @@ https://deangrant.wordpress.com/tag/powershell/
 
 The repository contains my entries to the Scripting Games Events hosted at PowerShell.org (http://powershell.org/wp/the-scripting-games/) <br />
 
+* **./2015_December.ps1** - December 2015 <br />
 * **./2015-September-Scripting-Games-Puzzle.ps1** - September 2015 <br />
 * **./Get-GeoIP.ps1** - August 2015 <br />
 * **./Get-RSSFeed.ps1** - October 2015 <br />
+* **./Get-Uptime.ps1** - January 2016 <br />
 
 # Scripts 
 
