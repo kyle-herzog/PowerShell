@@ -37,7 +37,7 @@ Date:              Thursday, 4th February 2016
 Version:           1.0
 
 .LINK  
-Online Version: 
+Online Version: https://github.com/dean1609/PowerShell/blob/master/ScriptingGames/Get-Uptime.ps1
 Blog: 
 Scripting Games Puzzle: http://powershell.org/wp/2016/01/02/january-2016-scripting-games-puzzle/ 
 #>
