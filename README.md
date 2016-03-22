@@ -8,7 +8,7 @@ https://deangrant.wordpress.com/tag/powershell/
 * **./Get-PSCredentialObject.ps1** - converts an encrypted standard string from content in a file using a specified encryption key to a secure string..  <br />
 * **./Get-VMHostManagementNetworks.ps1** - retrieves the IP address of the ESXi host system management network.  <br />
 * **./Get-VulnerabilityRSSFeed.ps1** - retrieves technical vulnerabilities from specified RSS feeds.  <br />
-* **./New-EncryptedString.ps1** - creates an Advanced Encryption Standard (AES) encryption key to retrieve encrypted standard strings and convert to a secure string..  <br />
+* **./New-EncryptionKey.ps1** - creates an Advanced Encryption Standard (AES) encryption key to retrieve encrypted standard strings and convert to a secure string..  <br />
 * **./New-EncryptedString.ps1** - converts the secure string for a credential object password using the specified encryption key and sends the output to a password file.  <br />
 * **./Send-ToSlack.ps1** - Posts message to a Slack public channel, private group, or IM channel. <br />
 * **./Write-Log.ps1** - generates an event message to console session and/or log file.  <br />
