@@ -29,7 +29,7 @@ Version:         1.0
 Release Notes:   Initial commit of the New-EncryptionKey cmdlet. 
 
 .LINK 
-
+Online Version: https://github.com/dean1609/PowerShell/blob/master/Functions/New-EncryptionKey.ps1
 #> 
 
 [CmdletBinding()]
