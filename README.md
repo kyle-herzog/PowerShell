@@ -31,6 +31,7 @@ The repository contains my entries to the Scripting Games Events hosted at Power
 * **./Consolidate-VMDisks.ps1** - consolidates virtual machine hard disks. <br />
 * **./Create-NTFSMountedFolder.ps1** - creates NTFS mounted folder <br />
 * **./Create-VirtualHardDisks.ps1** - creates multiple virtual machine hard disks <br />
+* **./Get-SecurityGroupMembers.ps1** - Retrieves the membership count and membership list of each security group within the domain and outputs to a Microsoft Excel worksheet.
 * **./Invoke-ConsolidateVMDisks.ps1** - removes idepedent non-persistene virtual mahcine hard disks and performs consolidation <br />
 * **./Join-ESXiHostToDomain.ps1** - joins ESXi host(s) to an Active Directory domain. <br />
 * **./Set-GuestNetworkInterface.ps1** - sets guest network interface for Windows guest operating system. <br />
