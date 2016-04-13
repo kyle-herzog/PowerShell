@@ -1,9 +1,9 @@
 #========================================================================================================================================================================================================
-# NAME:   			Get-SecurityGroupMembers.ps1
-# AUTHOR:			  Dean Grant
+# NAME:   		Get-SecurityGroupMembers.ps1
+# AUTHOR:		Dean Grant
 # DATE:     		26/10/2011
 #
-# VERSION:			1.0
+# VERSION:		1.0
 #
 # // COMMENTS:  	Retrieves the membership count and membership list of each security group within the domain and outputs to a Microsoft Excel worksheet.
 #					
