@@ -29,7 +29,7 @@ The command will power off all virtual machines on the vCenter Server System vcs
     Author: Dean Grant (Twitter: @dean1609)
     Date: Thursday, 26th January 2017
     Version: 1.0.0
-    Change Log: 1.0.0 - Initial version. 
+    Change Log: 1.0.0 - Sets the power state of all virtual machines on a vCenter Server System.
 
 .LINK 
 Online Version: https://github.com/dean1609/PowerShell/blob/master/Functions/Set-vCenterServerPowerState.ps1
